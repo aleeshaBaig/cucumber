@@ -1,0 +1,14 @@
+{
+  "name": "cucumberframework",
+  "version": "1.0.0",
+  "description": "Inital Framework setup for cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleesha",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^7.0.0"
+  }
+}
